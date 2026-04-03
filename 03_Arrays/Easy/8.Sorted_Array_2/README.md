@@ -157,6 +157,6 @@ class Solution {
 <!-- Add your handwritten notes image here -->
 <!-- ![Notes](../../assets/topic_problem-name_notes.jpg) -->
 
-*Handwritten notes: see `assets\3.Sorted_Array_2` folder*
+![Handwritten Notes](../../assets/3.Sorted_Array_2/page1.png)
 
 ---
