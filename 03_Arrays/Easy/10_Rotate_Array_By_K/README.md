@@ -30,7 +30,7 @@ rotate 3 steps to the right: [5,6,7,1,2,3,4]
  - First n-K elements will move to back  
 
  ![Handwritten Notes](../../../assets/10_Rotate_Array_By_K/array-rotation.png)  
- 
+
 **Find to way to swap those elements efficiently**
 
 
@@ -158,8 +158,8 @@ class Solution {
 <!-- Add your handwritten notes image here -->
 <!-- ![Notes](../../assets/topic_problem-name_notes.jpg) -->
 
-![Handwritten Notes](../../../assets/10_ROtate_Array_By_K/page1.png)
-![Handwritten Notes](../../../assets/10_ROtate_Array_By_K/page2.png)
-![Handwritten Notes](../../../assets/10_ROtate_Array_By_K/page3.png)
+![Handwritten Notes](../../../assets/10_Rotate_Array_By_K/page1.png)
+![Handwritten Notes](../../../assets/10_Rotate_Array_By_K/page2.png)
+![Handwritten Notes](../../../assets/10_Rotate_Array_By_K/page3.png)
 
 ---
