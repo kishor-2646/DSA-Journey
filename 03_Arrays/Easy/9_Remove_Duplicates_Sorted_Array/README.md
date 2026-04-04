@@ -118,8 +118,8 @@ class Solution {
 <!-- Add your handwritten notes image here -->
 <!-- ![Notes](../../assets/topic_problem-name_notes.jpg) -->
 
-![Handwritten Notes](../../../assets/9.Remove_Duplicates_Sorted_Array//page1.png)
-![Handwritten Notes](../../../assets/9.Remove_Duplicates_Sorted_Array//page2.png)
-![Handwritten Notes](../../../assets/9.Remove_Duplicates_Sorted_Array//page3.png)
+![Handwritten Notes](../../../assets/9_Remove_Duplicates_Sorted_Array//page1.png)
+![Handwritten Notes](../../../assets/9_Remove_Duplicates_Sorted_Array//page2.png)
+![Handwritten Notes](../../../assets/9_Remove_Duplicates_Sorted_Array//page3.png)
 
 ---
