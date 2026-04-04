@@ -27,8 +27,10 @@ rotate 3 steps to the right: [5,6,7,1,2,3,4]
 
 > **Rotating by K means :**  
  - Last K elements will move to front
- - First n-K elements will move to back
- ![Handwritten Notes](../../../assets/10_Rotate_Array_By_K/array-rotation.png)
+ - First n-K elements will move to back  
+
+ ![Handwritten Notes](../../../assets/10_Rotate_Array_By_K/array-rotation.png)  
+ 
 **Find to way to swap those elements efficiently**
 
 
