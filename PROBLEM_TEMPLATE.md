@@ -32,7 +32,7 @@ Explanation:
 **Idea:** ...  
 **Time:** O( ) | **Space:** O( )
 
-```cpp
+```java
 // Brute force code here
 ```
 
@@ -42,7 +42,7 @@ Explanation:
 **Idea:** ...  
 **Time:** O( ) | **Space:** O( )
 
-```cpp
+```java
 // Optimal code here
 ```
 
