@@ -1,3 +1,5 @@
+package easy.p01.LargestElement;
+
 class Solution{
 
     // Function to find the largest element in the array

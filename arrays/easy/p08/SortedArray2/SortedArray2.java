@@ -1,3 +1,5 @@
+package easy.p08.SortedArray2;
+
 class Solution {
     // Function to check if the array is sorted
     public boolean isSorted(int[] nums) {

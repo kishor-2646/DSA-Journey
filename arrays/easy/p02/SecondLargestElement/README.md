@@ -44,7 +44,7 @@ Avoid sorting to achieve optimal O(n) time complexity.
 // Brute force code here
 import java.util.*;
 
-class Solution {
+class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution {
     public static void findElements(int[] arr) {
         int n = arr.length;
 
@@ -96,7 +96,7 @@ class Solution {
 
 ```cpp
 // Optimal code here
-class Solution {
+class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution {
     public static void findElements(int[] arr) {
         int n = arr.length;
 

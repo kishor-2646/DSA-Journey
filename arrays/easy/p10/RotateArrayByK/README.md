@@ -49,7 +49,7 @@ rotate 3 steps to the right: [5,6,7,1,2,3,4]
 
 ```java
 // Brute force code here
-class Solution {
+class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
 
@@ -78,7 +78,7 @@ class Solution {
 
 ```java
 // Better code here
-class Solution {
+class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
         k = k % n;
@@ -109,7 +109,7 @@ Steps:
 
 ```java
 // Optimal code here
-class Solution {
+class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution {
     public void rotate(int[] nums, int k) {
         int n = nums.length;
         k = k % n;

@@ -1,3 +1,5 @@
+package easy.p10.RotateArrayByK;
+
 class Solution {
     //Rotate Array to the right by K steps
     public void rotate(int[] nums, int k) {

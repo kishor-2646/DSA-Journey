@@ -46,7 +46,7 @@ Whenever a new unique element is found, place it at next position of i.
 // Brute force code here
 import java.util.HashSet;
 
-class Solution {
+class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution {
     public int removeDuplicates(int[] nums) {
         HashSet<Integer> set = new HashSet<>();
         int index = 0;
@@ -74,7 +74,7 @@ class Solution {
 
 ```java
 // Optimal code here
-class Solution {
+class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution {
     public int removeDuplicates(int[] nums) {
         if (nums.length == 0) return 0;
 

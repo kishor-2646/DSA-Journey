@@ -47,7 +47,7 @@ If exactly one drop exists, ensure last element ≤ first element.
 
 ```cpp
 // Brute force code here
-class Solution {
+class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution {
 
     // Function to check if array is sorted (non-decreasing)
     private boolean isSorted(int[] arr) {
@@ -88,7 +88,7 @@ class Solution {
     }
 
     public static void main(String[] args) {
-        Solution obj = new Solution();
+        easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution obj = new easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution();
 
         int[] arr1 = {3, 4, 5, 1, 2};
         System.out.println(obj.check(arr1)); // true
@@ -110,7 +110,7 @@ class Solution {
 
 ```cpp
 // Optimal code here
-class Solution {
+class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.RotateArrayByK.easy.p01.LargestElement.easy.p02.SecondLargestElement.Solution {
     public boolean isSorted(int[] nums) {
         int n = nums.length;
         int count = 0;
