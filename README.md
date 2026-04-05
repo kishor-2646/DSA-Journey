@@ -3,7 +3,7 @@
 > Documenting my complete DSA journey following [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z) — with clean code, intuitive notes, and handwritten diagrams.
 
 ![Progress](https://img.shields.io/badge/Progress-110%2F454-brightgreen?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=cplusplus)
+![Language](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)   
 ![Sheet](https://img.shields.io/badge/Sheet-Striver's%20A2Z-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
