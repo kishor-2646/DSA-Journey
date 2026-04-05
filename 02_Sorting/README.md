@@ -39,4 +39,4 @@
 
 ---
 
-[← Basics](../01_Basics/README.md) | [Next: Arrays →](../03_Arrays/README.md)
+[← Basics](../01_Basics/README.md) | [Next: Arrays →](../arrays/README.md)

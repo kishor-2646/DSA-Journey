@@ -1,7 +1,7 @@
 # [Problem Number]. Problem Title
 
 > **Platform:** [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)  
-> **Difficulty:** 🟢 Easy  
+> **Difficulty:** 🟢 easy  
 > **Topic Tags:** `Array`  
 > **Date Solved:** 24-04-2025
 

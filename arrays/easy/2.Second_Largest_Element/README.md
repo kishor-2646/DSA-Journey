@@ -1,6 +1,6 @@
 # [2]. Find Second Smallest and Second Largest Element in an array
 
-> **Difficulty:** 🟢 Easy 
+> **Difficulty:** 🟢 easy 
 > **Topic Tags:** `Array`  
 
 

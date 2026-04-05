@@ -1,27 +1,27 @@
-# 03. Arrays [Easy → Medium → Hard]
+# 03. Arrays [easy → Medium → Hard]
 
 > ✅ **Completed: 40 / 40**
 
 ---
 
-## 🟢 Easy (14 Problems)
+## 🟢 easy (14 Problems)
 
 | # | Problem | LeetCode | File | Status |
 |---|---------|----------|------|--------|
-| 1 | Largest Element in Array | - | [→](./Easy/AE01_Largest_Element.md) | ✅ |
-| 2 | Second Largest Element | - | [→](./Easy/AE02_Second_Largest.md) | ✅ |
-| 3 | Check if Array is Sorted | [LC 896](https://leetcode.com/problems/monotonic-array/) | [→](./Easy/AE03_Check_Sorted.md) | ✅ |
-| 4 | Remove Duplicates from Sorted Array | [LC 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [→](./Easy/AE04_Remove_Duplicates.md) | ✅ |
-| 5 | Left Rotate Array by One | - | [→](./Easy/AE05_Left_Rotate_One.md) | ✅ |
-| 6 | Left Rotate Array by D places | [LC 189](https://leetcode.com/problems/rotate-array/) | [→](./Easy/AE06_Left_Rotate_D.md) | ✅ |
-| 7 | Move Zeros to End | [LC 283](https://leetcode.com/problems/move-zeroes/) | [→](./Easy/AE07_Move_Zeros.md) | ✅ |
-| 8 | Linear Search | - | [→](./Easy/AE08_Linear_Search.md) | ✅ |
-| 9 | Union of Two Sorted Arrays | - | [→](./Easy/AE09_Union.md) | ✅ |
-| 10 | Find the Missing Number | [LC 268](https://leetcode.com/problems/missing-number/) | [→](./Easy/AE10_Missing_Number.md) | ✅ |
-| 11 | Maximum Consecutive Ones | [LC 485](https://leetcode.com/problems/max-consecutive-ones/) | [→](./Easy/AE11_Max_Consecutive_Ones.md) | ✅ |
-| 12 | Find the Number that Appears Once | [LC 136](https://leetcode.com/problems/single-number/) | [→](./Easy/AE12_Single_Number.md) | ✅ |
-| 13 | Longest Subarray with Sum K (positives) | - | [→](./Easy/AE13_Longest_Subarray_SumK.md) | ✅ |
-| 14 | Longest Subarray with Sum K (pos + neg) | - | [→](./Easy/AE14_Longest_Subarray_SumK_PosNeg.md) | ✅ |
+| 1 | Largest Element in Array | - | [→](./easy/AE01_Largest_Element.md) | ✅ |
+| 2 | Second Largest Element | - | [→](./easy/AE02_Second_Largest.md) | ✅ |
+| 3 | Check if Array is Sorted | [LC 896](https://leetcode.com/problems/monotonic-array/) | [→](./easy/AE03_Check_Sorted.md) | ✅ |
+| 4 | Remove Duplicates from Sorted Array | [LC 26](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [→](./easy/AE04_Remove_Duplicates.md) | ✅ |
+| 5 | Left Rotate Array by One | - | [→](./easy/AE05_Left_Rotate_One.md) | ✅ |
+| 6 | Left Rotate Array by D places | [LC 189](https://leetcode.com/problems/rotate-array/) | [→](./easy/AE06_Left_Rotate_D.md) | ✅ |
+| 7 | Move Zeros to End | [LC 283](https://leetcode.com/problems/move-zeroes/) | [→](./easy/AE07_Move_Zeros.md) | ✅ |
+| 8 | Linear Search | - | [→](./easy/AE08_Linear_Search.md) | ✅ |
+| 9 | Union of Two Sorted Arrays | - | [→](./easy/AE09_Union.md) | ✅ |
+| 10 | Find the Missing Number | [LC 268](https://leetcode.com/problems/missing-number/) | [→](./easy/AE10_Missing_Number.md) | ✅ |
+| 11 | Maximum Consecutive Ones | [LC 485](https://leetcode.com/problems/max-consecutive-ones/) | [→](./easy/AE11_Max_Consecutive_Ones.md) | ✅ |
+| 12 | Find the Number that Appears Once | [LC 136](https://leetcode.com/problems/single-number/) | [→](./easy/AE12_Single_Number.md) | ✅ |
+| 13 | Longest Subarray with Sum K (positives) | - | [→](./easy/AE13_Longest_Subarray_SumK.md) | ✅ |
+| 14 | Longest Subarray with Sum K (pos + neg) | - | [→](./easy/AE14_Longest_Subarray_SumK_PosNeg.md) | ✅ |
 
 ---
 

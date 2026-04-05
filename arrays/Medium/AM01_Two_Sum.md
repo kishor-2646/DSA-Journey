@@ -1,7 +1,7 @@
 # AM01. Two Sum
 
 > **Platform:** [LeetCode 1](https://leetcode.com/problems/two-sum/)  
-> **Difficulty:** 🟢 Easy  
+> **Difficulty:** 🟢 easy  
 > **Topic Tags:** `Array` `Hash Map`  
 > **Date Solved:** <!-- YYYY-MM-DD -->
 

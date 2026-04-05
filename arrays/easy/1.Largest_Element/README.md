@@ -1,7 +1,7 @@
 # [1]. Find the Largest element in an array
 
   
-> **Difficulty:** 🟢 Easy  
+> **Difficulty:** 🟢 easy  
 > **Topic Tags:** `Array`  
 > **Date Solved:** YYYY-MM-DD
 

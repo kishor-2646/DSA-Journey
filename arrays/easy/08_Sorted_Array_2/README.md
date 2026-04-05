@@ -1,7 +1,7 @@
 # [8]. Check if Array is Sorted and Rotated
 
 > **Platform:** [LeetCode](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/) |  
-> **Difficulty:** 🟢 Easy  
+> **Difficulty:** 🟢 easy  
 > **Topic Tags:** `Array`  
 > **Date Solved:** 20-01-2026
 

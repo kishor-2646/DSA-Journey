@@ -82,4 +82,4 @@ while lo <= hi:
 
 ---
 
-[← Arrays](../03_Arrays/README.md) | [Next: Strings →](../05_Strings/README.md)
+[← Arrays](../arrays/README.md) | [Next: Strings →](../05_Strings/README.md)
