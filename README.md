@@ -13,10 +13,10 @@
 
 | # | Topic | Problems | Status |
 |---|-------|----------|--------|
-| 01 | [Learn the Basics](./01_Basics/) | 31 / 31 | ✅ Done |
-| 02 | [Sorting Algorithms](./02_Sorting/) | 7 / 7 | ✅ Done |
-| 03 | [Arrays (easy → Hard)](arrays/) | 40 / 40 | ✅ Done |
-| 04 | [Binary Search](./04_Binary_Search/) | 32 / 32 | ✅ Done |
+| 01 | [Learn the Basics](a01.basics/) | 31 / 31 | ✅ Done |
+| 02 | [Sorting Algorithms](a02.sorting/) | 7 / 7 | ✅ Done |
+| 03 | [Arrays (easy → Hard)](a03.arrays/) | 40 / 40 | ✅ Done |
+| 04 | [Binary Search](a04.BinarySearch/) | 32 / 32 | ✅ Done |
 | 05 | Strings | 0 / 15 | 🔜 Up Next |
 | 06 | Linked List | 0 / 31 | ⏳ Pending |
 | 07 | Recursion | 0 / 25 | ⏳ Pending |
