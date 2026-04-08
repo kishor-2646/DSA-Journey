@@ -158,6 +158,6 @@ class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.Rotate
 <!-- ![Notes](../../assets/topic_problem-name_notes.jpg) -->
 
 
-![Handwritten Notes](../../../../assets/08_Sorted_Array_2/page1.png)
-![Handwritten Notes](../../../../assets/08_Sorted_Array_2/page2.png)
+![Handwritten Notes](../../../../assets/08_SortedArray2/page1.png)
+![Handwritten Notes](../../../../assets/08_SortedArray2/page2.png)
 ---
