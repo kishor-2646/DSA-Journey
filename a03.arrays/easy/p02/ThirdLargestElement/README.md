@@ -91,6 +91,6 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/02_Third_Largest_Element/page1.png)
+![Handwritten Notes](../../../../assets/02_ThirdLargestElement/page1.png)
 
 ---

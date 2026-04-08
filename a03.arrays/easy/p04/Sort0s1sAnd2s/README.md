@@ -133,7 +133,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/04_Sort_012/page1.png)
-![Handwritten Notes](../../../assets/04_Sort_012/page2.png)
+![Handwritten Notes](../../../../assets/04_Sort0s1sAnd2s/page1.png)
+![Handwritten Notes](../../../../assets/04_Sort0s1sAnd2s/page2.png)
 
 ---

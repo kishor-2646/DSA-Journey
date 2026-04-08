@@ -157,6 +157,7 @@ class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.Rotate
 <!-- Add your handwritten notes image here -->
 <!-- ![Notes](../../assets/topic_problem-name_notes.jpg) -->
 
-![Handwritten Notes](../../../assets/8_Sorted_Array_2/page1.png)
-![Handwritten Notes](../../../assets/8_Sorted_Array_2/page2.png)
+
+![Handwritten Notes](../../../../assets/08_Sorted_Array_2/page1.png)
+![Handwritten Notes](../../../../assets/08_Sorted_Array_2/page2.png)
 ---

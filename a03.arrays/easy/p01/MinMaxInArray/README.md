@@ -108,7 +108,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/01_Find_Min_Max/page1.png)
-![Handwritten Notes](../../../assets/01_Find_Min_Max/page2.png)
+![Handwritten Notes](../../../../assets/01_MinMaxInArray/page1.png)
+![Handwritten Notes](../../../../assets/01_MinMaxInArray/page2.png)
 
 ---
