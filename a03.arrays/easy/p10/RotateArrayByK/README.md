@@ -158,8 +158,8 @@ class easy.p08.SortedArray2.easy.p09.RemoveDuplicatesSortedArray.easy.p10.Rotate
 <!-- Add your handwritten notes image here -->
 <!-- ![Notes](../../assets/topic_problem-name_notes.jpg) -->
 
-![Handwritten Notes](../../../assets/10_Rotate_Array_By_K/page1.png)
-![Handwritten Notes](../../../assets/10_Rotate_Array_By_K/page2.png)
-![Handwritten Notes](../../../assets/10_Rotate_Array_By_K/page3.png)
+![Handwritten Notes](../../../../assets/10_Rotate_Array_By_K/page1.png)
+![Handwritten Notes](../../../../assets/10_Rotate_Array_By_K/page2.png)
+![Handwritten Notes](../../../../assets/10_Rotate_Array_By_K/page3.png)
 
 ---

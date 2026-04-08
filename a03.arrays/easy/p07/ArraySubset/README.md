@@ -166,8 +166,8 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/07_Array_Subset/page1.png)
-![Handwritten Notes](../../../assets/07_Array_Subset/page2.png)
-![Handwritten Notes](../../../assets/07_Array_Subset/page3.png)
+![Handwritten Notes](../../../../assets/07_ArraySubset/page1.png)
+![Handwritten Notes](../../../../assets/07_ArraySubset/page2.png)
+![Handwritten Notes](../../../../assets/07_ArraySubset/page3.png)
 
 ---

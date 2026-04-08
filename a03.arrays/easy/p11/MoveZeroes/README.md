@@ -122,7 +122,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/11_Move_Zeroes/page1.png)
+![Handwritten Notes](../../../../assets/11_Move_Zeroes/page1.png)
 ![Handwritten Notes](../../../assets/11_Move_Zeroes/page2.png)
 
 ---
