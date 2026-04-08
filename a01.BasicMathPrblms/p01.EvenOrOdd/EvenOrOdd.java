@@ -1,37 +1,41 @@
-package p01.EvenOrOdd;
+package a01_basicMath.p01.EvenOrOdd;
 
-/**
- * Problem: Check if a number is Even or Odd.
- * Input: n = 15 -> Output: false
- * Input: n = 4  -> Output: true
- */
 public class EvenOrOdd {
 
     // ─────────────────────────────────────────────
     // Approach 1: Modulo Operator
-    // Standard approach using remainder.
+    // n % 2 == 0 → even, else → odd
+    // Division and remainder check.
     // T(n) = O(1), S(n) = O(1)
     // ─────────────────────────────────────────────
-    public static boolean isEvenModulo(int n) {
-        return (n % 2 == 0);
+    public static boolean isEven(int n) {
+        if (n % 2 == 0)
+            return true;
+        else
+            return false;
     }
 
     // ─────────────────────────────────────────────
     // Approach 2: Bitwise AND (Efficient)
-    // Odd numbers always have the last bit as 1.
-    // (n & 1) returns 1 for odd, 0 for even.
+    // Last bit of any odd number is always 1.
+    // Last bit of any even number is always 0.
+    // Performing AND with 1 isolates the last bit.
+    // → If (n & 1) == 0 → even (last bit 0)
+    // → If (n & 1) == 1 → odd  (last bit 1)
+    // Bitwise ops are extremely fast (operate at binary level).
     // T(n) = O(1), S(n) = O(1)
     // ─────────────────────────────────────────────
     public static boolean isEvenBitwise(int n) {
-        // If (n & 1) is 0, it means the last bit is 0 (Even)
-        return (n & 1) == 0;
+        if ((n & 1) == 0)
+            return true;
+        else
+            return false;
     }
 
     public static void main(String[] args) {
-        int n = 15;
-        System.out.println(n + " is even? " + isEvenBitwise(n)); // false
-
-        n = 4;
-        System.out.println(n + " is even? " + isEvenBitwise(n)); // true
+        System.out.println(isEven(15));         // false
+        System.out.println(isEven(4));          // true
+        System.out.println(isEvenBitwise(15));  // false
+        System.out.println(isEvenBitwise(4));   // true
     }
 }
