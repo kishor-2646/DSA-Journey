@@ -1,7 +1,7 @@
 # BSA08. Aggressive Cows
 
 > **Platform:** [GFG](https://practice.geeksforgeeks.org/problems/aggressive-cows/0) | [SPOJ](https://www.spoj.com/problems/AGGRCOW/)  
-> **Difficulty:** 🔴 hard  
+> **Difficulty:** 🔴 a3_hard  
 > **Topic Tags:** `Binary Search` `Search Space` `Greedy`  
 > **Date Solved:** <!-- YYYY-MM-DD -->
 

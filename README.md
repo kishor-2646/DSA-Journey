@@ -14,7 +14,7 @@
 |---|-------|----------|--------|
 | 01 | [Learn the Basics](a01.basics/) | 31 / 31  | ✅ Done |
 | 02 | Sorting Algorithms | 0 / 7    | ⏳ Pending |
-| 03 | [Arrays (easy → hard)](a03.arrays/) | 40 / 40  | ✅ Done |
+| 03 | [Arrays (a1_easy → a3_hard)](a02.Arrays/) | 40 / 40  | ✅ Done |
 | 04 | [Binary Search](a04.BinarySearch/) | 32 / 32  | ✅ Done |
 | 05 | Strings | 0 / 15   | 🔜 Up Next |
 | 06 | Linked List | 0 / 31   | ⏳ Pending |
@@ -46,9 +46,9 @@ DSA-Journey/
 │   └── 04_Hashing/         # Hashing fundamentals
 ├── 02_Sorting/             # All sorting algorithms
 ├── 03_Arrays/
-│   ├── easy/
-│   ├── medium/
-│   └── hard/
+│   ├── a1_easy/
+│   ├── a2_medium/
+│   └── a3_hard/
 ├── 04_Binary_Search/
 │   ├── 1D/                 # Classic 1D BS problems
 │   ├── On_Answers/         # BS on answer space

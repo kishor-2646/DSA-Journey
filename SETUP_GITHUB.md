@@ -52,7 +52,7 @@ A good post format:
 Following Striver's A2Z Sheet — just completed:
 ✅ Basics (31 problems)
 ✅ Sorting Algorithms (7 algorithms)
-✅ Arrays — easy to hard (40 problems)
+✅ Arrays — a1_easy to a3_hard (40 problems)
 ✅ Binary Search — 1D + Answer Space + 2D (32 problems)
 
 Each problem has:

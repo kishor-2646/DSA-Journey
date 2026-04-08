@@ -1,7 +1,7 @@
 # BS01. Binary Search
 
 > **Platform:** [LeetCode 704](https://leetcode.com/problems/binary-search/)  
-> **Difficulty:** 🟢 easy  
+> **Difficulty:** 🟢 a1_easy  
 > **Topic Tags:** `Binary Search` `Array`  
 > **Date Solved:** <!-- YYYY-MM-DD -->
 

@@ -1,7 +1,7 @@
 # [Problem Number]. Problem Title
 
 > **Platform:** [LeetCode](https://leetcode.com/problems/problem-slug/) | [GFG](https://geeksforgeeks.org/problem-link/)  
-> **Difficulty:** 🟢 easy / 🟡 medium / 🔴 hard  
+> **Difficulty:** 🟢 a1_easy / 🟡 a2_medium / 🔴 a3_hard  
 > **Topic Tags:** `Array` `Two Pointer` `...`  
 > **Date Solved:** YYYY-MM-DD
 
