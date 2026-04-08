@@ -1,7 +1,7 @@
 # 4. Sort 0s, 1s and 2s (Sort Colors)
 
 > **Platform:** [LeetCode 75](https://leetcode.com/problems/sort-colors/description/) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) |  
-> **Difficulty:** 🟡 Medium  
+> **Difficulty:** 🟡 medium  
 > **Topic Tags:** `Array` `Two Pointers` `Sorting`  
 > **Date Solved:** 7-4-2026
 

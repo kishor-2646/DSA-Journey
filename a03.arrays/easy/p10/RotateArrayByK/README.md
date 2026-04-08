@@ -1,7 +1,7 @@
 # 10. Rotate Array
 
 > **Platform:** [LeetCode](https://leetcode.com/problems/rotate-array/description/) |  
-> **Difficulty:** 🟡 Medium   
+> **Difficulty:** 🟡 medium   
 > **Topic Tags:** `Array`  
 > **Date Solved:** 3-8-2025
 

@@ -1,7 +1,7 @@
 # 16. Longest Subarray with Sum K [Positives & Negatives]
 
 > **Platform:** [GeeksForGeeks](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1) |  
-> **Difficulty:** 🟡 Medium  
+> **Difficulty:** 🟡 medium  
 > **Topic Tags:** `Array` `HashMap` `Prefix Sum`  
 > **Date Solved:** 6-4-2026
 
@@ -134,8 +134,9 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/16_Longest_Subarray_Sum_K/page1.png)
-![Handwritten Notes](../../../assets/16_Longest_Subarray_Sum_K/page2.png)
-![Handwritten Notes](../../../assets/16_Longest_Subarray_Sum_K/page3.png)
+![Handwritten Notes](../../../../assets/16_LongestSubarraySumK/page1.png)
+![Handwritten Notes](../../../../assets/16_LongestSubarraySumK/page2.png)
+![Handwritten Notes](../../../../assets/16_LongestSubarraySumK/page3.png)
+![Handwritten Notes](../../../../assets/16_LongestSubarraySumK/page4.png)
 
 ---

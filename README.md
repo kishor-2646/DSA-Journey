@@ -1,10 +1,9 @@
-# 🚀 DSA Journey — Striver's A2Z Sheet
+# 🚀 DSA Journey 
 
-> Documenting my complete DSA journey following [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z) — with clean code, intuitive notes, and handwritten diagrams.
+> Documenting my complete DSA journey following [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)  and also other sources— with clean code, intuitive notes, and handwritten diagrams.
 
-![Progress](https://img.shields.io/badge/Progress-110%2F454-brightgreen?style=for-the-badge)
-![Language](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java)   
-![Sheet](https://img.shields.io/badge/Sheet-Striver's%20A2Z-orange?style=for-the-badge)
+![Progress](https://img.shields.io/badge/Progress-84-brightgreen?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java) 
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 
 ---
@@ -13,24 +12,24 @@
 
 | # | Topic | Problems | Status |
 |---|-------|----------|--------|
-| 01 | [Learn the Basics](a01.basics/) | 31 / 31 | ✅ Done |
-| 02 | [Sorting Algorithms](a02.sorting/) | 7 / 7 | ✅ Done |
-| 03 | [Arrays (easy → Hard)](a03.arrays/) | 40 / 40 | ✅ Done |
-| 04 | [Binary Search](a04.BinarySearch/) | 32 / 32 | ✅ Done |
-| 05 | Strings | 0 / 15 | 🔜 Up Next |
-| 06 | Linked List | 0 / 31 | ⏳ Pending |
-| 07 | Recursion | 0 / 25 | ⏳ Pending |
-| 08 | Bit Manipulation | 0 / 18 | ⏳ Pending |
-| 09 | Stack & Queues | 0 / 30 | ⏳ Pending |
-| 10 | Sliding Window & Two Pointer | 0 / 12 | ⏳ Pending |
-| 11 | Heaps | 0 / 17 | ⏳ Pending |
-| 12 | Greedy Algorithms | 0 / 16 | ⏳ Pending |
-| 13 | Binary Trees | 0 / 39 | ⏳ Pending |
-| 14 | Binary Search Trees | 0 / 16 | ⏳ Pending |
-| 15 | Graphs | 0 / 53 | ⏳ Pending |
-| 16 | Dynamic Programming | 0 / 56 | ⏳ Pending |
-| 17 | Tries | 0 / 7 | ⏳ Pending |
-| 18 | Advanced Strings | 0 / 9 | ⏳ Pending |
+| 01 | [Learn the Basics](a01.basics/) | 31 / 31  | ✅ Done |
+| 02 | Sorting Algorithms | 0 / 7    | ⏳ Pending |
+| 03 | [Arrays (easy → hard)](a03.arrays/) | 40 / 40  | ✅ Done |
+| 04 | [Binary Search](a04.BinarySearch/) | 32 / 32  | ✅ Done |
+| 05 | Strings | 0 / 15   | 🔜 Up Next |
+| 06 | Linked List | 0 / 31   | ⏳ Pending |
+| 07 | Recursion | 0 / 25   | ⏳ Pending |
+| 08 | Bit Manipulation | 0 / 18   | ⏳ Pending |
+| 09 | Stack & Queues | 0 / 30   | ⏳ Pending |
+| 10 | Sliding Window & Two Pointer | 0 / 12   | ⏳ Pending |
+| 11 | Heaps | 0 / 17   | ⏳ Pending |
+| 12 | Greedy Algorithms | 0 / 16   | ⏳ Pending |
+| 13 | Binary Trees | 0 / 39   | ⏳ Pending |
+| 14 | Binary Search Trees | 0 / 16   | ⏳ Pending |
+| 15 | Graphs | 0 / 53   | ⏳ Pending |
+| 16 | Dynamic Programming | 0 / 56   | ⏳ Pending |
+| 17 | Tries | 0 / 7    | ⏳ Pending |
+| 18 | Advanced Strings | 0 / 9    | ⏳ Pending |
 
 **Total: 110 / 454**
 
@@ -48,8 +47,8 @@ DSA-Journey/
 ├── 02_Sorting/             # All sorting algorithms
 ├── 03_Arrays/
 │   ├── easy/
-│   ├── Medium/
-│   └── Hard/
+│   ├── medium/
+│   └── hard/
 ├── 04_Binary_Search/
 │   ├── 1D/                 # Classic 1D BS problems
 │   ├── On_Answers/         # BS on answer space

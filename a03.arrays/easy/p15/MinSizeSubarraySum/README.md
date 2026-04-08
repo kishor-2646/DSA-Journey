@@ -1,7 +1,7 @@
 # 15. Minimum Size Subarray Sum
 
 > **Platform:** [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/description/) |  
-> **Difficulty:** 🟡 Medium  
+> **Difficulty:** 🟡 medium  
 > **Topic Tags:** `Array` `Sliding Window` `Binary Search` `Prefix Sum`  
 > **Date Solved:** 6-4-2026
 
@@ -171,9 +171,11 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/15_Min_Size_Subarray_Sum/page1.png)
-![Handwritten Notes](../../../assets/15_Min_Size_Subarray_Sum/page2.png)
-![Handwritten Notes](../../../assets/15_Min_Size_Subarray_Sum/page3.png)
-![Handwritten Notes](../../../assets/15_Min_Size_Subarray_Sum/page4.png)
+![Handwritten Notes](../../../../assets/15_MinSizeSubarraySum/page1.png)
+![Handwritten Notes](../../../../assets/15_MinSizeSubarraySum/page2.png)
+![Handwritten Notes](../../../../assets/15_MinSizeSubarraySum/page3.png)
+![Handwritten Notes](../../../../assets/15_MinSizeSubarraySum/page4.png)
+![Handwritten Notes](../../../../assets/15_MinSizeSubarraySum/page5.png)
+![Handwritten Notes](../../../../assets/15_MinSizeSubarraySum/page6.png)
 
 ---

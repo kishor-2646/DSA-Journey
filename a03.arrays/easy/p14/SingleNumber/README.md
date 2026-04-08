@@ -94,6 +94,6 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/14_Single_Number/page1.png)
+![Handwritten Notes](../../../../assets/14_SingleNumber/page1.png)
 
 ---

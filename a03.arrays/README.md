@@ -1,4 +1,4 @@
-# 03. Arrays [easy → Medium → Hard]
+# 03. Arrays [easy → medium → hard]
 
 > ✅ **Completed: 40 / 40**
 
@@ -25,43 +25,43 @@
 
 ---
 
-## 🟡 Medium (16 Problems)
+## 🟡 medium (16 Problems)
 
 | # | Problem | LeetCode | File | Status |
 |---|---------|----------|------|--------|
-| 1 | 2Sum Problem | [LC 1](https://leetcode.com/problems/two-sum/) | [→](./Medium/AM01_Two_Sum.md) | ✅ |
-| 2 | Sort Colors (Dutch National Flag) | [LC 75](https://leetcode.com/problems/sort-colors/) | [→](./Medium/AM02_Sort_Colors.md) | ✅ |
-| 3 | Majority Element (> n/2) | [LC 169](https://leetcode.com/problems/majority-element/) | [→](./Medium/AM03_Majority_Element.md) | ✅ |
-| 4 | Kadane's Algorithm (Max Subarray Sum) | [LC 53](https://leetcode.com/problems/maximum-subarray/) | [→](./Medium/AM04_Kadanes.md) | ✅ |
-| 5 | Stock Buy and Sell | [LC 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [→](./Medium/AM05_Stock_Buy_Sell.md) | ✅ |
-| 6 | Rearrange Array by Sign | [LC 2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [→](./Medium/AM06_Rearrange_Sign.md) | ✅ |
-| 7 | Next Permutation | [LC 31](https://leetcode.com/problems/next-permutation/) | [→](./Medium/AM07_Next_Permutation.md) | ✅ |
-| 8 | Leaders in an Array | - | [→](./Medium/AM08_Leaders.md) | ✅ |
-| 9 | Longest Consecutive Sequence | [LC 128](https://leetcode.com/problems/longest-consecutive-sequence/) | [→](./Medium/AM09_Longest_Consecutive.md) | ✅ |
-| 10 | Set Matrix Zeroes | [LC 73](https://leetcode.com/problems/set-matrix-zeroes/) | [→](./Medium/AM10_Set_Matrix_Zeroes.md) | ✅ |
-| 11 | Rotate Matrix by 90° | [LC 48](https://leetcode.com/problems/rotate-image/) | [→](./Medium/AM11_Rotate_Matrix.md) | ✅ |
-| 12 | Spiral Matrix | [LC 54](https://leetcode.com/problems/spiral-matrix/) | [→](./Medium/AM12_Spiral_Matrix.md) | ✅ |
-| 13 | Subarray Sum Equals K | [LC 560](https://leetcode.com/problems/subarray-sum-equals-k/) | [→](./Medium/AM13_Subarray_Sum_K.md) | ✅ |
-| 14 | Subarray with XOR = K | - | [→](./Medium/AM14_Subarray_XOR_K.md) | ✅ |
-| 15 | Intersection of Two Arrays | - | [→](./Medium/AM15_Intersection.md) | ✅ |
-| 16 | 3Sum | [LC 15](https://leetcode.com/problems/3sum/) | [→](./Medium/AM16_Three_Sum.md) | ✅ |
+| 1 | 2Sum Problem | [LC 1](https://leetcode.com/problems/two-sum/) | [→](./medium/AM01_Two_Sum.md) | ✅ |
+| 2 | Sort Colors (Dutch National Flag) | [LC 75](https://leetcode.com/problems/sort-colors/) | [→](./medium/AM02_Sort_Colors.md) | ✅ |
+| 3 | Majority Element (> n/2) | [LC 169](https://leetcode.com/problems/majority-element/) | [→](./medium/AM03_Majority_Element.md) | ✅ |
+| 4 | Kadane's Algorithm (Max Subarray Sum) | [LC 53](https://leetcode.com/problems/maximum-subarray/) | [→](./medium/AM04_Kadanes.md) | ✅ |
+| 5 | Stock Buy and Sell | [LC 121](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [→](./medium/AM05_Stock_Buy_Sell.md) | ✅ |
+| 6 | Rearrange Array by Sign | [LC 2149](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | [→](./medium/AM06_Rearrange_Sign.md) | ✅ |
+| 7 | Next Permutation | [LC 31](https://leetcode.com/problems/next-permutation/) | [→](./medium/AM07_Next_Permutation.md) | ✅ |
+| 8 | Leaders in an Array | - | [→](./medium/AM08_Leaders.md) | ✅ |
+| 9 | Longest Consecutive Sequence | [LC 128](https://leetcode.com/problems/longest-consecutive-sequence/) | [→](./medium/AM09_Longest_Consecutive.md) | ✅ |
+| 10 | Set Matrix Zeroes | [LC 73](https://leetcode.com/problems/set-matrix-zeroes/) | [→](./medium/AM10_Set_Matrix_Zeroes.md) | ✅ |
+| 11 | Rotate Matrix by 90° | [LC 48](https://leetcode.com/problems/rotate-image/) | [→](./medium/AM11_Rotate_Matrix.md) | ✅ |
+| 12 | Spiral Matrix | [LC 54](https://leetcode.com/problems/spiral-matrix/) | [→](./medium/AM12_Spiral_Matrix.md) | ✅ |
+| 13 | Subarray Sum Equals K | [LC 560](https://leetcode.com/problems/subarray-sum-equals-k/) | [→](./medium/AM13_Subarray_Sum_K.md) | ✅ |
+| 14 | Subarray with XOR = K | - | [→](./medium/AM14_Subarray_XOR_K.md) | ✅ |
+| 15 | Intersection of Two Arrays | - | [→](./medium/AM15_Intersection.md) | ✅ |
+| 16 | 3Sum | [LC 15](https://leetcode.com/problems/3sum/) | [→](./medium/AM16_Three_Sum.md) | ✅ |
 
 ---
 
-## 🔴 Hard (10 Problems)
+## 🔴 hard (10 Problems)
 
 | # | Problem | LeetCode | File | Status |
 |---|---------|----------|------|--------|
-| 1 | Pascal's Triangle | [LC 118](https://leetcode.com/problems/pascals-triangle/) | [→](./Hard/AH01_Pascals_Triangle.md) | ✅ |
-| 2 | Majority Element II (> n/3) | [LC 229](https://leetcode.com/problems/majority-element-ii/) | [→](./Hard/AH02_Majority_Element_II.md) | ✅ |
-| 3 | 4Sum | [LC 18](https://leetcode.com/problems/4sum/) | [→](./Hard/AH03_Four_Sum.md) | ✅ |
-| 4 | Largest Subarray with 0 Sum | - | [→](./Hard/AH04_Largest_Subarray_0_Sum.md) | ✅ |
-| 5 | Count Subarrays with XOR = K | - | [→](./Hard/AH05_Subarrays_XOR_K.md) | ✅ |
-| 6 | Merge Overlapping Intervals | [LC 56](https://leetcode.com/problems/merge-intervals/) | [→](./Hard/AH06_Merge_Intervals.md) | ✅ |
-| 7 | Merge Two Sorted Arrays (no extra space) | [LC 88](https://leetcode.com/problems/merge-sorted-array/) | [→](./Hard/AH07_Merge_Sorted_Arrays.md) | ✅ |
-| 8 | Find the Duplicate Number | [LC 287](https://leetcode.com/problems/find-the-duplicate-number/) | [→](./Hard/AH08_Find_Duplicate.md) | ✅ |
-| 9 | Count Inversions | - | [→](./Hard/AH09_Count_Inversions.md) | ✅ |
-| 10 | Reverse Pairs | [LC 493](https://leetcode.com/problems/reverse-pairs/) | [→](./Hard/AH10_Reverse_Pairs.md) | ✅ |
+| 1 | Pascal's Triangle | [LC 118](https://leetcode.com/problems/pascals-triangle/) | [→](./hard/AH01_Pascals_Triangle.md) | ✅ |
+| 2 | Majority Element II (> n/3) | [LC 229](https://leetcode.com/problems/majority-element-ii/) | [→](./hard/AH02_Majority_Element_II.md) | ✅ |
+| 3 | 4Sum | [LC 18](https://leetcode.com/problems/4sum/) | [→](./hard/AH03_Four_Sum.md) | ✅ |
+| 4 | Largest Subarray with 0 Sum | - | [→](./hard/AH04_Largest_Subarray_0_Sum.md) | ✅ |
+| 5 | Count Subarrays with XOR = K | - | [→](./hard/AH05_Subarrays_XOR_K.md) | ✅ |
+| 6 | Merge Overlapping Intervals | [LC 56](https://leetcode.com/problems/merge-intervals/) | [→](./hard/AH06_Merge_Intervals.md) | ✅ |
+| 7 | Merge Two Sorted Arrays (no extra space) | [LC 88](https://leetcode.com/problems/merge-sorted-array/) | [→](./hard/AH07_Merge_Sorted_Arrays.md) | ✅ |
+| 8 | Find the Duplicate Number | [LC 287](https://leetcode.com/problems/find-the-duplicate-number/) | [→](./hard/AH08_Find_Duplicate.md) | ✅ |
+| 9 | Count Inversions | - | [→](./hard/AH09_Count_Inversions.md) | ✅ |
+| 10 | Reverse Pairs | [LC 493](https://leetcode.com/problems/reverse-pairs/) | [→](./hard/AH10_Reverse_Pairs.md) | ✅ |
 
 ---
 
