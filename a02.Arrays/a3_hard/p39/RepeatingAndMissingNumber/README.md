@@ -180,3 +180,13 @@ class Solution {
 > - Key insight in XOR: X and Y differ at the chosen bit position, so they always land in opposite groups
 
 ---
+## 🖊 Handwritten Notes
+
+![Handwritten Notes](../../../../assets/a02_Arrays/39_RepeatingAndMissingNumber/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/39_RepeatingAndMissingNumber/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/39_RepeatingAndMissingNumber/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/39_RepeatingAndMissingNumber/page4.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/39_RepeatingAndMissingNumber/page5.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/39_RepeatingAndMissingNumber/page6.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/39_RepeatingAndMissingNumber/page7.png)
+

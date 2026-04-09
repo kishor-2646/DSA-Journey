@@ -111,3 +111,9 @@ class Solution {
 > - Pattern: Prefix XOR + HashMap — process element, query map, then update map (order matters)
 
 ---
+## 🖊 Handwritten Notes
+
+![Handwritten Notes](../../../../assets/a02_Arrays/38_LargestSubarrayWithXorK/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/38_LargestSubarrayWithXorK/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/38_LargestSubarrayWithXorK/page3.png)
+

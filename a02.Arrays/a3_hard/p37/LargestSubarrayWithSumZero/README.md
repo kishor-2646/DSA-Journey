@@ -74,8 +74,9 @@ class Solution {
 
 ---
 
-## 🖊 Handwritten Notes
+## 🖊 Handwritten Notes (same as "p28.SubarraySumEqualsK")
 
-![Handwritten Notes](../../../assets/p37_LargestSubarrayWithSumZero/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/28_SubarraySumEqualsK/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/28_SubarraySumEqualsK/page2.png)
 
 ---

@@ -123,3 +123,7 @@ class Solution {
 > - Pattern: Divide & Conquer — split, count in halves, count across during merge
 
 ---
+![Handwritten Notes](../../../../assets/a02_Arrays/40_CountInversion/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/40_CountInversion/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/40_CountInversion/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/40_CountInversion/page4.png)
