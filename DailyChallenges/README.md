@@ -47,6 +47,7 @@ A personal log of all LeetCode Daily Challenge problems I've solved.
 | 3891 | Minimum Increase to Maximize Special Indices | 🟡 Medium | [LeetCode](https://leetcode.com/problems/minimum-increase-to-maximize-special-indices/) |
 | 3892 | Minimum Operations to Achieve At Least K Peaks | 🔴 Hard | [LeetCode](https://leetcode.com/problems/minimum-operations-to-achieve-at-least-k-peaks/) |
 | 2751 | Robot Collisions | 🔴 Hard | [LeetCode](https://leetcode.com/problems/robot-collisions/description/) |
+| 3655 | XOR After Range Multiplication Queries II | 🔴 Hard | [LeetCode](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii/description/?envType=daily-question&envId=2026-04-09) |
 
 
 
