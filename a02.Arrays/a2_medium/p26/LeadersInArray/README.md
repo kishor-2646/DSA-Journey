@@ -128,7 +128,9 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/p26_LeadersInArray/page1.png)
-![Handwritten Notes](../../../assets/p26_LeadersInArray/page2.png)
+![Handwritten Notes](../../../../assets/a03_arrays/26_LeadersInArray/page1.png)
+![Handwritten Notes](../../../../assets/a03_arrays/26_LeadersInArray/page2.png)
+![Handwritten Notes](../../../../assets/a03_arrays/26_LeadersInArray/page3.png)
+
 
 ---

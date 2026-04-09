@@ -160,7 +160,7 @@ Answer = 2 ✅ ([3,1,2] and [2,4])
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/p28_SubarraySumEqualsK/page1.png)
-![Handwritten Notes](../../../assets/p28_SubarraySumEqualsK/page2.png)
+![Handwritten Notes](../../../../assets/a03_arrays/28_SubarraySumEqualsK/page1.png)
+![Handwritten Notes](../../../../assets/a03_arrays/28_SubarraySumEqualsK/page2.png)
 
 ---

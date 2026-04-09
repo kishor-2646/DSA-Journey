@@ -116,7 +116,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/21_RearrangeArrayBySign/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/21_RearrangeArrayBySign/page2.png)
+![Handwritten Notes](../../../../assets/a03_arrays/21_RearrangeElementsBySign/page1.png)
+![Handwritten Notes](../../../../assets/a03_arrays/21_RearrangeElementsBySign/page2.png)
 
 ---

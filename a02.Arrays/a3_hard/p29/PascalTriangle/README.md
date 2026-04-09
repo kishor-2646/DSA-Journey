@@ -113,6 +113,8 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/p29_PascalTriangle/page1.png)
+![Handwritten Notes](../../../../assets/a03_arrays/29_PascalTriangle/page1.png)  
+![Handwritten Notes](../../../../assets/a03_arrays/29_PascalTriangle/page2.png)
+
 
 ---

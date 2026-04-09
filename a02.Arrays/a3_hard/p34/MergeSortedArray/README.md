@@ -79,6 +79,8 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/p34_MergeSortedArray/page1.png)
+![Handwritten Notes](../../../../assets/a03_arrays/34_MergeSortedArray/page1.png)
+![Handwritten Notes](../../../../assets/a03_arrays/34_MergeSortedArray/page2.png)
+![Handwritten Notes](../../../../assets/a03_arrays/34_MergeSortedArray/page3.png)
 
 ---

@@ -98,6 +98,10 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/p35_ReversePairs/page1.png)
+![Handwritten Notes](../../../../assets/a03_arrays/35_ReversePairs/page1.png)
+![Handwritten Notes](../../../../assets/a03_arrays/35_ReversePairs/page2.png)
+![Handwritten Notes](../../../../assets/a03_arrays/35_ReversePairs/page3.png)
+![Handwritten Notes](../../../../assets/a03_arrays/35_ReversePairs/page4.png)
+![Handwritten Notes](../../../../assets/a03_arrays/35_ReversePairs/page5.png)
 
 ---

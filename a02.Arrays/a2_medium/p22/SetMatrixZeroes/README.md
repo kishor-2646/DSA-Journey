@@ -128,5 +128,9 @@ class Solution {
 ![Handwritten Notes](../../../../assets/a03_arrays/22_SetMatrixZeroes/page1.png)
 ![Handwritten Notes](../../../../assets/a03_arrays/22_SetMatrixZeroes/page2.png)
 ![Handwritten Notes](../../../../assets/a03_arrays/22_SetMatrixZeroes/page3.png)
+![Handwritten Notes](../../../../assets/a03_arrays/22_SetMatrixZeroes/page4.png)
+![Handwritten Notes](../../../../assets/a03_arrays/22_SetMatrixZeroes/page5.png)
+![Handwritten Notes](../../../../assets/a03_arrays/22_SetMatrixZeroes/page6.png)
+
 
 ---

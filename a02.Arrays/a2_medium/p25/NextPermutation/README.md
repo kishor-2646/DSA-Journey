@@ -109,8 +109,9 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/33_NextPermutation/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/33_NextPermutation/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/33_NextPermutation/page3.png)
+![Handwritten Notes](../../../../assets/a03_arrays/25_NextPermutation/page1.png)
+![Handwritten Notes](../../../../assets/a03_arrays/25_NextPermutation/page2.png)
+![Handwritten Notes](../../../../assets/a03_arrays/25_NextPermutation/page3.png)
+![Handwritten Notes](../../../../assets/a03_arrays/25_NextPermutation/page4.png)
 
 ---

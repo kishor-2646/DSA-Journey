@@ -153,8 +153,8 @@ Answer = 4
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../assets/p27_LongestConsecutiveSequence/page1.png)
-![Handwritten Notes](../../../assets/p27_LongestConsecutiveSequence/page2.png)
-![Handwritten Notes](../../../assets/p27_LongestConsecutiveSequence/page3.png)
+![Handwritten Notes](../../../../assets/a03_arrays/27_LongestConsecutiveSequence/page1.png)
+![Handwritten Notes](../../../../assets/a03_arrays/27_LongestConsecutiveSequence/page2.png)
+![Handwritten Notes](../../../../assets/a03_arrays/27_LongestConsecutiveSequence/page3.png)
 
 ---
