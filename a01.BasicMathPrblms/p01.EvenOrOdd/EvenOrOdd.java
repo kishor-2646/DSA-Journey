@@ -1,4 +1,4 @@
-package a01_basicMath.p01.EvenOrOdd;
+package p01.EvenOrOdd;
 
 public class EvenOrOdd {
 
