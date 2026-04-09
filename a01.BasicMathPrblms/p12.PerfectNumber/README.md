@@ -129,5 +129,5 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../assets/a01_basicMathPrblms/12_PerfectNumber/page1.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/12_PerfectNumber/page1.png)  
 ![Handwritten Notes](../../assets/a01_basicMathPrblms/12_PerfectNumber/page2.png)
