@@ -105,4 +105,5 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a01_basic_math/10_Palindrome/page1.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/10_Palindrome/page1.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/10_Palindrome/page2.png)

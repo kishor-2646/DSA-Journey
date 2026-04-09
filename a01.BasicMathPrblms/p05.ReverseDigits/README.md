@@ -93,6 +93,6 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a01_basicMath/05_ReverseDigits/page1.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/05_ReverseDigits/page1.png)
 
 ---

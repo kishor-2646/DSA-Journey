@@ -101,6 +101,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a01_basicMath/06_PowerOfNumbers/page1.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/06_PowerOfNumbers/page1.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/06_PowerOfNumbers/page2.png)
 
 ---

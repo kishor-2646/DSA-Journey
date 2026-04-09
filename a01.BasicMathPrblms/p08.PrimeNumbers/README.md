@@ -95,6 +95,6 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a01_basicMath/08_PrimeNumbers/page1.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/08_PrimeNumbers/page1.png)
 
 ---

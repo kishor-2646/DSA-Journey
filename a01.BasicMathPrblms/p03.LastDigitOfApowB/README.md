@@ -111,8 +111,11 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a01_basicMath/03_LastDigitOfApowB/page1.png)
-![Handwritten Notes](../../../../assets/a01_basicMath/03_LastDigitOfApowB/page2.png)
-![Handwritten Notes](../../../../assets/a01_basicMath/03_LastDigitOfApowB/page3.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/03_LastDigitOfApowB/page1.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/03_LastDigitOfApowB/page2.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/03_LastDigitOfApowB/page3.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/03_LastDigitOfApowB/page4.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/03_LastDigitOfApowB/page5.png)
+
 
 ---
