@@ -133,9 +133,9 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/19_MaximumSubarraySum/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/19_MaximumSubarraySum/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/19_MaximumSubarraySum/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/19_MaximumSubarraySum/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/19_MaximumSubarraySum/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/19_MaximumSubarraySum/page3.png)
 
 
 ---

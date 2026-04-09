@@ -171,11 +171,11 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/15_MinSizeSubarraySum/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/15_MinSizeSubarraySum/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/15_MinSizeSubarraySum/page3.png)
-![Handwritten Notes](../../../../assets/a03_arrays/15_MinSizeSubarraySum/page4.png)
-![Handwritten Notes](../../../../assets/a03_arrays/15_MinSizeSubarraySum/page5.png)
-![Handwritten Notes](../../../../assets/a03_arrays/15_MinSizeSubarraySum/page6.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/15_MinSizeSubarraySum/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/15_MinSizeSubarraySum/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/15_MinSizeSubarraySum/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/15_MinSizeSubarraySum/page4.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/15_MinSizeSubarraySum/page5.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/15_MinSizeSubarraySum/page6.png)
 
 ---

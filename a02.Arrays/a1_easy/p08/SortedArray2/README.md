@@ -158,6 +158,6 @@ class a1_easy.p08.SortedArray2.a1_easy.p09.RemoveDuplicatesSortedArray.a1_easy.p
 <!-- ![Notes](../../assets/topic_problem-name_notes.jpg) -->
 
 
-![Handwritten Notes](../../../../assets/a03_arrays/08_SortedArray2/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/08_SortedArray2/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/08_SortedArray2/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/08_SortedArray2/page2.png)
 ---

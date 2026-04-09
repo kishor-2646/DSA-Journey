@@ -88,9 +88,9 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/32_FourSum/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/32_FourSum/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/32_FourSum/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/32_FourSum/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/32_FourSum/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/32_FourSum/page3.png)
 
 
 ---

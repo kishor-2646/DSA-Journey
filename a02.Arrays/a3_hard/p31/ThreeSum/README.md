@@ -101,11 +101,11 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/31_ThreeSum/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/31_ThreeSum/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/31_ThreeSum/page3.png)
-![Handwritten Notes](../../../../assets/a03_arrays/31_ThreeSum/page4.png)
-![Handwritten Notes](../../../../assets/a03_arrays/31_ThreeSum/page5.png)
-![Handwritten Notes](../../../../assets/a03_arrays/31_ThreeSum/page6.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/31_ThreeSum/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/31_ThreeSum/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/31_ThreeSum/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/31_ThreeSum/page4.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/31_ThreeSum/page5.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/31_ThreeSum/page6.png)
 
 ---

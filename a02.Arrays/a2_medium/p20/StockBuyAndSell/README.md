@@ -112,7 +112,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/20_StockBuyAndSell/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/20_StockBuyAndSell/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/20_StockBuyAndSell/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/20_StockBuyAndSell/page2.png)
 
 ---

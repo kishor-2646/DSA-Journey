@@ -154,8 +154,8 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/06_RotateArray/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/06_RotateArray/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/06_RotateArray/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/06_RotateArray/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/06_RotateArray/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/06_RotateArray/page3.png)
 
 ---

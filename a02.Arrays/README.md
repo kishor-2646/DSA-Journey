@@ -79,4 +79,4 @@
 
 ---
 
-[← Sorting](../a02.sorting/README.md) | [Next: Binary Search →](../a04.BinarySearch/README.md)
+[← Sorting](../a02.sorting/README.md) | [Next: Binary Search →](../a03.BinarySearch/README.md)

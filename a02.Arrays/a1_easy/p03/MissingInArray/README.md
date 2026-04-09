@@ -143,8 +143,8 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/03_MissingInArray/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/03_MissingInArray/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/03_MissingInArray/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/03_MissingInArray/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/03_MissingInArray/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/03_MissingInArray/page3.png)
 
 ---

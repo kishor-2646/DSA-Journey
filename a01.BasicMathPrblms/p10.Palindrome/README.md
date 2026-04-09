@@ -105,5 +105,5 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../assets/a01_basicMathPrblms/10_Palindrome/page1.png)  
-![Handwritten Notes](../../assets/a01_basicMathPrblms/10_Palindrome/page2.png)
+![Handwritten Notes](../../assets/a01_BasicMathPrblms/10_Palindrome/page1.png)  
+![Handwritten Notes](../../assets/a01_BasicMathPrblms/10_Palindrome/page2.png)

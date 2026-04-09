@@ -116,9 +116,9 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/30_MajorityElement2/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/30_MajorityElement2/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/30_MajorityElement2/page3.png)
-![Handwritten Notes](../../../../assets/a03_arrays/30_MajorityElement2/page4.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/30_MajorityElement2/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/30_MajorityElement2/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/30_MajorityElement2/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/30_MajorityElement2/page4.png)
 
 ---

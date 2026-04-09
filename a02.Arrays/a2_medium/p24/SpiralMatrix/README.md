@@ -99,6 +99,6 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/24_SpiralMatrix/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/24_SpiralMatrix/page1.png)
 
 ---

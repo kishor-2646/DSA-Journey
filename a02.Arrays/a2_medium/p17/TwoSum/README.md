@@ -105,7 +105,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/17_TwoSum/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/17_TwoSum/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/17_TwoSum/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/17_TwoSum/page2.png)
 
 ---

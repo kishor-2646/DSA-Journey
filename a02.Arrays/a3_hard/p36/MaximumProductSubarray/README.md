@@ -103,8 +103,8 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/36_MaximumProductSubarray/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/36_MaximumProductSubarray/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/36_MaximumProductSubarray/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/36_MaximumProductSubarray/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/36_MaximumProductSubarray/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/36_MaximumProductSubarray/page3.png)
 
 ---

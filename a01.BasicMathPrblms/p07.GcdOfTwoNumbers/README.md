@@ -134,11 +134,11 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../assets/a01_basicMathPrblms/07_GcdOfTwoNumbers/page1.png)  
-![Handwritten Notes](../../assets/a01_basicMathPrblms/07_GcdOfTwoNumbers/page2.png)  
-![Handwritten Notes](../../assets/a01_basicMathPrblms/07_GcdOfTwoNumbers/page3.png)  
-![Handwritten Notes](../../assets/a01_basicMathPrblms/07_GcdOfTwoNumbers/page4.png)  
-![Handwritten Notes](../../assets/a01_basicMathPrblms/07_GcdOfTwoNumbers/page5.png)
+![Handwritten Notes](../../assets/a01_BasicMathPrblms/07_GcdOfTwoNumbers/page1.png)  
+![Handwritten Notes](../../assets/a01_BasicMathPrblms/07_GcdOfTwoNumbers/page2.png)  
+![Handwritten Notes](../../assets/a01_BasicMathPrblms/07_GcdOfTwoNumbers/page3.png)  
+![Handwritten Notes](../../assets/a01_BasicMathPrblms/07_GcdOfTwoNumbers/page4.png)  
+![Handwritten Notes](../../assets/a01_BasicMathPrblms/07_GcdOfTwoNumbers/page5.png)
 
 
 ---

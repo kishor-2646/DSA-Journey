@@ -15,7 +15,7 @@
 | 01 | [Learn the Basics](a01.basics/) | 31 / 31  | ✅ Done |
 | 02 | Sorting Algorithms | 0 / 7    | ⏳ Pending |
 | 03 | [Arrays (a1_easy → a3_hard)](a02.Arrays/) | 40 / 40  | ✅ Done |
-| 04 | [Binary Search](a04.BinarySearch/) | 32 / 32  | ✅ Done |
+| 04 | [Binary Search](a03.BinarySearch/) | 32 / 32  | ✅ Done |
 | 05 | Strings | 0 / 15   | 🔜 Up Next |
 | 06 | Linked List | 0 / 31   | ⏳ Pending |
 | 07 | Recursion | 0 / 25   | ⏳ Pending |

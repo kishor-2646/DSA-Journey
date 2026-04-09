@@ -122,7 +122,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/11_MoveZeroes/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/11_MoveZeroes/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/11_MoveZeroes/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/11_MoveZeroes/page2.png)
 
 ---

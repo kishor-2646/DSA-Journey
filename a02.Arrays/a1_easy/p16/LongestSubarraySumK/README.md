@@ -134,9 +134,9 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/16_LongestSubarraySumK/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/16_LongestSubarraySumK/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/16_LongestSubarraySumK/page3.png)
-![Handwritten Notes](../../../../assets/a03_arrays/16_LongestSubarraySumK/page4.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/16_LongestSubarraySumK/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/16_LongestSubarraySumK/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/16_LongestSubarraySumK/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/16_LongestSubarraySumK/page4.png)
 
 ---

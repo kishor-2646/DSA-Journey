@@ -129,8 +129,8 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/05_EqualsArrays/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/05_EqualsArrays/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/05_EqualsArrays/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/05_EqualsArrays/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/05_EqualsArrays/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/05_EqualsArrays/page3.png)
 
 ---

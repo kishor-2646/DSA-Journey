@@ -111,7 +111,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/12_UnionOfTwoSortedArrays/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/12_UnionOfTwoSortedArrays/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/12_UnionOfTwoSortedArrays/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/12_UnionOfTwoSortedArrays/page2.png)
 
 ---

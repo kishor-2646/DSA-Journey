@@ -166,8 +166,8 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/07_ArraySubset/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/07_ArraySubset/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/07_ArraySubset/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/07_ArraySubset/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/07_ArraySubset/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/07_ArraySubset/page3.png)
 
 ---

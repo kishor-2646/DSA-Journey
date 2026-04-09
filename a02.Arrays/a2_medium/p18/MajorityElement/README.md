@@ -143,7 +143,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/18_MajorityElement/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/18_MajorityElement/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/18_MajorityElement/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/18_MajorityElement/page2.png)
 
 ---

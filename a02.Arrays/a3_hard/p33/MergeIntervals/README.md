@@ -82,9 +82,9 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/33_MergeIntervals/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/33_MergeIntervals/page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/33_MergeIntervals/page3.png)
-![Handwritten Notes](../../../../assets/a03_arrays/33_MergeIntervals/page4.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/33_MergeIntervals/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/33_MergeIntervals/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/33_MergeIntervals/page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/33_MergeIntervals/page4.png)
 
 ---

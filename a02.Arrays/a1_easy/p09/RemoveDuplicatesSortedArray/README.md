@@ -118,8 +118,8 @@ class a1_easy.p08.SortedArray2.a1_easy.p09.RemoveDuplicatesSortedArray.a1_easy.p
 <!-- Add your handwritten notes image here -->
 <!-- ![Notes](../../assets/topic_problem-name_notes.jpg) -->
 
-![Handwritten Notes](../../../../assets/a03_arrays/9_RemoveDuplicatesSortedArray//page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/9_RemoveDuplicatesSortedArray//page2.png)
-![Handwritten Notes](../../../../assets/a03_arrays/9_RemoveDuplicatesSortedArray//page3.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/9_RemoveDuplicatesSortedArray//page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/9_RemoveDuplicatesSortedArray//page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/9_RemoveDuplicatesSortedArray//page3.png)
 
 ---

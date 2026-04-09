@@ -106,7 +106,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/23_RotateImage/page1.png)
-![Handwritten Notes](../../../../assets/a03_arrays/23_RotateImage/page2.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/23_RotateImage/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/23_RotateImage/page2.png)
 
 ---

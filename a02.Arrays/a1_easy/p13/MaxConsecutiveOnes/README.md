@@ -79,6 +79,6 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../../../assets/a03_arrays/13_MaxConsecutiveOnes/page1.png)
+![Handwritten Notes](../../../../assets/a02_Arrays/13_MaxConsecutiveOnes/page1.png)
 
 ---
