@@ -109,9 +109,9 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../assets/a01_basicMathPrblms/02_FirstAndLastDigit/page1.png)
-![Handwritten Notes](../../assets/a01_basicMathPrblms/02_FirstAndLastDigit/page2.png)
-![Handwritten Notes](../../assets/a01_basicMathPrblms/02_FirstAndLastDigit/page3.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/02_FirstAndLastDigit/page1.png)  
+![Handwritten Notes](../../assets/a01_basicMathPrblms/02_FirstAndLastDigit/page2.png)  
+![Handwritten Notes](../../assets/a01_basicMathPrblms/02_FirstAndLastDigit/page3.png)  
 ![Handwritten Notes](../../assets/a01_basicMathPrblms/02_FirstAndLastDigit/page4.png)
 
 ---

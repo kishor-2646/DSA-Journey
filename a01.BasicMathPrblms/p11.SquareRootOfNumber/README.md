@@ -135,7 +135,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../assets/a01_basicMathPrblms/11_SquareRootOfNumber/page1.png)
-![Handwritten Notes](../../assets/a01_basicMathPrblms/11_SquareRootOfNumber/page2.png)
-![Handwritten Notes](../../assets/a01_basicMathPrblms/11_SquareRootOfNumber/page3.png)
-![Handwritten Notes](../../assets/a01_basicMathPrblms/11_SquareRootOfNumber/page4.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/11_SquareRootOfNumber/page1.png)  
+![Handwritten Notes](../../assets/a01_basicMathPrblms/11_SquareRootOfNumber/page2.png)  
+![Handwritten Notes](../../assets/a01_basicMathPrblms/11_SquareRootOfNumber/page3.png)  
+![Handwritten Notes](../../assets/a01_basicMathPrblms/11_SquareRootOfNumber/page4.png)  

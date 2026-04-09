@@ -86,7 +86,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../assets/a01_basicMathPrblms/04_CountDigits/page1.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/04_CountDigits/page1.png)  
 ![Handwritten Notes](../../assets/a01_basicMathPrblms/04_CountDigits/page2.png)
 
 

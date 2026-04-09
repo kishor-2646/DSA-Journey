@@ -111,7 +111,7 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../assets/a01_basicMathPrblms/09_ArmstrongNumbers/page1.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/09_ArmstrongNumbers/page1.png)  
 ![Handwritten Notes](../../assets/a01_basicMathPrblms/09_ArmstrongNumbers/page2.png)
 
 ---

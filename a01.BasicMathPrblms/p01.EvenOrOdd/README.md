@@ -93,8 +93,8 @@ class Solution {
 
 ## 🖊 Handwritten Notes
 
-![Handwritten Notes](../../assets/a01_basicMathPrblms/01_EvenOrOdd/page1.png)
-![Handwritten Notes](../../assets/a01_basicMathPrblms/01_EvenOrOdd/page2.png)
+![Handwritten Notes](../../assets/a01_basicMathPrblms/01_EvenOrOdd/page1.png)  
+![Handwritten Notes](../../assets/a01_basicMathPrblms/01_EvenOrOdd/page2.png)  
 ![Handwritten Notes](../../assets/a01_basicMathPrblms/01_EvenOrOdd/page3.png)
 
 ---
