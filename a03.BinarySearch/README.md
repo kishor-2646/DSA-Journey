@@ -8,19 +8,19 @@
 
 | # | Problem | LeetCode | File | Status |
 |---|---------|----------|------|--------|
-| 1 | Binary Search to Find X in Sorted Array | [LC 704](https://leetcode.com/problems/binary-search/) | [→](./1D/BS01_Binary_Search.md) | ✅ |
-| 2 | Implement Lower Bound | - | [→](./1D/BS02_Lower_Bound.md) | ✅ |
-| 3 | Implement Upper Bound | - | [→](./1D/BS03_Upper_Bound.md) | ✅ |
-| 4 | Search Insert Position | [LC 35](https://leetcode.com/problems/search-insert-position/) | [→](./1D/BS04_Search_Insert.md) | ✅ |
-| 5 | Floor and Ceil in Sorted Array | - | [→](./1D/BS05_Floor_Ceil.md) | ✅ |
-| 6 | First and Last Occurrence | [LC 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [→](./1D/BS06_First_Last_Occurrence.md) | ✅ |
-| 7 | Count Occurrences in Sorted Array | - | [→](./1D/BS07_Count_Occurrences.md) | ✅ |
-| 8 | Search in Rotated Sorted Array I | [LC 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [→](./1D/BS08_Rotated_Array_I.md) | ✅ |
-| 9 | Search in Rotated Sorted Array II | [LC 81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [→](./1D/BS09_Rotated_Array_II.md) | ✅ |
-| 10 | Minimum in Rotated Sorted Array | [LC 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [→](./1D/BS10_Min_Rotated.md) | ✅ |
-| 11 | How Many Times Array is Rotated | - | [→](./1D/BS11_Count_Rotations.md) | ✅ |
-| 12 | Single Element in a Sorted Array | [LC 540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [→](./1D/BS12_Single_Element.md) | ✅ |
-| 13 | Find Peak Element | [LC 162](https://leetcode.com/problems/find-peak-element/) | [→](./1D/BS13_Peak_Element.md) | ✅ |
+| 1 | Binary Search to Find X in Sorted Array | [LC 704](https://leetcode.com/problems/binary-search/) | [→](oneD_arrays/BS01_Binary_Search.md) | ✅ |
+| 2 | Implement Lower Bound | - | [→](oneD_arrays/BS02_Lower_Bound.md) | ✅ |
+| 3 | Implement Upper Bound | - | [→](oneD_arrays/BS03_Upper_Bound.md) | ✅ |
+| 4 | Search Insert Position | [LC 35](https://leetcode.com/problems/search-insert-position/) | [→](oneD_arrays/BS04_Search_Insert.md) | ✅ |
+| 5 | Floor and Ceil in Sorted Array | - | [→](oneD_arrays/BS05_Floor_Ceil.md) | ✅ |
+| 6 | First and Last Occurrence | [LC 34](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [→](oneD_arrays/BS06_First_Last_Occurrence.md) | ✅ |
+| 7 | Count Occurrences in Sorted Array | - | [→](oneD_arrays/BS07_Count_Occurrences.md) | ✅ |
+| 8 | Search in Rotated Sorted Array I | [LC 33](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [→](oneD_arrays/BS08_Rotated_Array_I.md) | ✅ |
+| 9 | Search in Rotated Sorted Array II | [LC 81](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/) | [→](oneD_arrays/BS09_Rotated_Array_II.md) | ✅ |
+| 10 | Minimum in Rotated Sorted Array | [LC 153](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [→](oneD_arrays/BS10_Min_Rotated.md) | ✅ |
+| 11 | How Many Times Array is Rotated | - | [→](oneD_arrays/BS11_Count_Rotations.md) | ✅ |
+| 12 | Single Element in a Sorted Array | [LC 540](https://leetcode.com/problems/single-element-in-a-sorted-array/) | [→](oneD_arrays/BS12_Single_Element.md) | ✅ |
+| 13 | Find Peak Element | [LC 162](https://leetcode.com/problems/find-peak-element/) | [→](oneD_arrays/BS13_Peak_Element.md) | ✅ |
 
 ---
 
