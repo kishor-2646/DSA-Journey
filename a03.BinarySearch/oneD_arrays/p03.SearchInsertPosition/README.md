@@ -1,70 +1,68 @@
-# 3. Search Insert Position
+# p03. Search Insert Position
 
-> **Platform:** [LeetCode](https://leetcode.com/problems/search-insert-position/) &nbsp;|&nbsp; LC: 35  
+> **Platform:** [LeetCode 35](https://leetcode.com/problems/search-insert-position/) |  
 > **Difficulty:** 🟢 Easy  
 > **Topic Tags:** `Array` `Binary Search`  
-> **Date Solved:** 11-4-2026
+> **Date Solved:** 9-4-2026
 
 ---
 
 ## 📝 Problem Statement
 
-> Given a sorted array of **distinct** elements and a `target`.
-> - If `target` is **found**, return its index.
-> - If `target` is **not found**, return the index where it **would be inserted** in order.
+> Given a sorted array of distinct integers and a target value,  
+> return its index if found, otherwise return the index where it **would be inserted** in order.
 
-**Examples:**
+**Example:**
 ```
-Input:  nums = [1, 3, 5, 6], target = 5  →  Output: 2  (found)
-Input:  nums = [1, 3, 5, 6], target = 2  →  Output: 1  (insert between 1 and 3)
-Input:  nums = [1, 3, 5, 6], target = 7  →  Output: 4  (insert at end)
-Input:  nums = [1, 3, 5, 6], target = 0  →  Output: 0  (insert at beginning)
+Input:  nums = [1, 3, 5, 6], target = 5   →  Output: 2
+Input:  nums = [1, 3, 5, 6], target = 2   →  Output: 1
 ```
 
 ---
 
 ## 💡 Intuition
 
-> This is **exactly the Lower Bound problem** in disguise.
+> This is exactly the **Lower Bound** problem.  
+> We want the first index where `nums[index] >= target`.
+> - If `target` is found → that's its index.
+> - If `target` is not found → lower bound gives where it would be inserted.
 >
-> Lower Bound = first index where `arr[index] >= target`.
-> - If target **exists** → that's its index.
-> - If target **doesn't exist** → that's the first element greater than it,
->   which is exactly where target should be inserted!
->
-> So: run the Lower Bound binary search algorithm directly.
+> Use Binary Search with an `ans` variable initialized to `N`.
+> - `nums[mid] >= target` → update `ans = mid`, search left.
+> - `nums[mid] < target` → search right.
 
 ---
 
-## 🔄 Approach: Lower Bound via Binary Search
+## 🔄 Approaches
 
-**Dry Run** on `arr = [1, 2, 4, 7]`, target = 6:
-
-```
-low=0, high=3 → mid=1 → arr[1]=2 < 6 → low=2
-low=2, high=3 → mid=2 → arr[2]=4 < 6 → low=3
-low=3, high=3 → mid=3 → arr[3]=7 >= 6 → ans=3, high=2
-low > high → return 3  ✅  (insert 6 at index 3, before 7)
-```
-
-**Time:** O(log n) | **Space:** O(1)
-
+### Approach 1: Brute Force — Linear Scan
+**Time:** O(n) | **Space:** O(1)
 ```java
-class Solution {
-    public int searchInsert(int[] nums, int target) {
-        int low = 0, high = nums.length - 1;
-        int ans = nums.length;
-        while (low <= high) {
-            int mid = low + (high - low) / 2;
-            if (nums[mid] >= target) {
-                ans = mid;
-                high = mid - 1;
-            } else {
-                low = mid + 1;
-            }
-        }
-        return ans;
+public int searchInsert(int[] nums, int target) {
+    for (int i = 0; i < nums.length; i++) {
+        if (nums[i] >= target) return i;
     }
+    return nums.length;
+}
+```
+
+### ⚡ Approach 2: Optimal — Binary Search (Lower Bound)
+**Time:** O(log n) | **Space:** O(1)
+```java
+public int searchInsert(int[] nums, int target) {
+    int low = 0, high = nums.length - 1;
+    int ans = nums.length;
+
+    while (low <= high) {
+        int mid = low + (high - low) / 2;
+        if (nums[mid] >= target) {
+            ans = mid;
+            high = mid - 1;
+        } else {
+            low = mid + 1;
+        }
+    }
+    return ans;
 }
 ```
 
@@ -72,23 +70,18 @@ class Solution {
 
 ## 📊 Complexity Analysis
 
-| Approach | Time | Space |
-|----------|------|-------|
-| Binary Search (Lower Bound) | O(log n) | O(1) |
+| Approach      | Time     | Space |
+|---------------|----------|-------|
+| Brute Force   | O(n)     | O(1)  |
+| Binary Search | O(log n) | O(1)  |
 
 ---
 
 ## 🗒 Personal Notes
 
-> - Recognize this as Lower Bound — the conceptual link makes it trivial
-> - `ans = nums.length` initialization handles "insert at the end" case
-> - No special case needed for "found" vs "not found" — Lower Bound handles both
-> - Pattern: **Lower Bound = Search Insert Position**
-
----
-
-## 🖊 Handwritten Notes
-
-![Handwritten Notes](../../../../assets/b5_1D_Arrays/03_SearchInsertPosition/page1.png)
+> - This problem is a direct application of Lower Bound.
+> - Initialize `ans = N` (array length) — covers the case where target > all elements.
+> - Key insight: the condition `nums[mid] >= target` handles both "found" and "insert" cases uniformly.
+> - Condition `high = mid - 1` (not `mid`) prevents infinite loops when `ans = mid`.
 
 ---
