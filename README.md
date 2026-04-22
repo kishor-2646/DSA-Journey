@@ -92,7 +92,7 @@ DSA-Journey/
 
 1. Each folder has its own `README.md` with a problem list and quick links
 2. Individual problems are `.md` files — open them to see code + notes
-3. Handwritten note images are in `/assets/` named by topic + problem
+3. Handwritten note images are in `/assets/` named by topic + problem.
 
 ---
 
