@@ -1,6 +1,6 @@
 # 🚀 DSA Journey 
 
-> Documenting my complete DSA journey following [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)  and also other sources— with clean code, intuitive notes, and handwritten diagrams..
+> Documenting my complete DSA journey following [Striver's A2Z DSA Sheet](https://takeuforward.org/dsa/strivers-a2z-sheet-learn-dsa-a-to-z)  and also other sources— with clean code, intuitive notes, and handwritten diagrams.
 
 ![Progress](https://img.shields.io/badge/Progress-84-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=java) 
