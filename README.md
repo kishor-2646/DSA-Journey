@@ -65,7 +65,7 @@ DSA-Journey/
 - 💡 Intuition & approach
 - 🔄 Brute → Better → Optimal solutions
 - ⏱ Time & Space complexity
-- 📝 Personal notes
+- 📝 Personal notes.
 - 🖊 Handwritten notes (image link in `/assets`)
 
 ---
