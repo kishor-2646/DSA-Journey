@@ -1,4 +1,4 @@
-package a01_basicMath.p02.FirstAndLastDigit;
+package p02.FirstAndLastDigit;
 
 public class FirstAndLastDigit {
 

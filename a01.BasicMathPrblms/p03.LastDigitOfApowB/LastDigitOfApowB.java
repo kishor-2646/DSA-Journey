@@ -1,4 +1,4 @@
-package a01_basicMath.p03.LastDigitOfApowB;
+package p03.LastDigitOfApowB;
 
 public class LastDigitOfApowB {
 

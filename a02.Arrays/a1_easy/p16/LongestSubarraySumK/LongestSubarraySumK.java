@@ -2,7 +2,7 @@ package a1_easy.p16.LongestSubarraySumK;
 
 import java.util.HashMap;
 
-public class LongestSubarraySumK {
+public class  LongestSubarraySumK {
 
     // Brute Force: Check all possible subarrays
     // T(n) = O(n²), S(n) = O(1)
@@ -36,6 +36,7 @@ public class LongestSubarraySumK {
     // Use putIfAbsent to keep earliest index (for longest subarray).
     //
     // T(n) = O(n), S(n) = O(n)
+
     public static int longestSubarray(int[] arr, int k) {
         HashMap<Integer, Integer> map = new HashMap<>();
         int prefixSum = 0;
