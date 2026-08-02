@@ -113,6 +113,7 @@ DSA-Journey/
 |  |
 | ------- |
 | [0046-permutations](https://github.com/kishor-2646/DSA-Journey/tree/master/0046-permutations) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/kishor-2646/DSA-Journey/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 ## Backtracking
 |  |
 | ------- |
