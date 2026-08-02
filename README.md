@@ -106,3 +106,15 @@ DSA-Journey/
 ---
 
 > *"The journey of a thousand miles begins with a single step."* — Started this to become consistent, document everything, and grow publicly. 💪
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0046-permutations](https://github.com/kishor-2646/DSA-Journey/tree/master/0046-permutations) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/kishor-2646/DSA-Journey/tree/master/0046-permutations) |
+<!---LeetCode Topics End-->
