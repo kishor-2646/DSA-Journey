@@ -1,20 +1,36 @@
 class Solution {
-    public int lengthOfLongestSubstring(String s) {
-        HashMap<Character, Integer> map = new HashMap<>();
-        int left = 0, maxLen = 0;
-        for(int right = 0; right < s.length(); right++)
-        {
-            char ch = s.charAt(right);
+    public String longestPalindrome(String s) {
+        int n = s.length();
+        int start = 0, end = 0;
 
-            if(map.containsKey(ch))
+        if(s == null || s.length() < 2)
+         return s;
+
+        for(int i = 0; i < n; i++)
+        {
+            int oddLen = expand(s, i, i);
+
+            int evenLen = expand(s, i, i + 1);
+
+            int len = Math.max(oddLen, evenLen);
+
+            if(len > end - start + 1)
             {
-                left = Math.max(left, map.get(ch) + 1);
+                start = i - (len - 1) / 2;
+                end = i + (len ) / 2; 
             }
-            map.put(ch, right);
-            maxLen = Math.max(maxLen, right - left + 1);
         }
-        return maxLen;
-        //testing
+
+        return s.substring(start, end + 1);
+    }
+
+    public int expand(String s, int st, int e){
+        while(st >= 0 && e < s.length() && s.charAt(st) == s.charAt(e))
+        {
+            st--;
+            e++;
+        }
+
+        return e - st - 1; 
     }
 }
-
