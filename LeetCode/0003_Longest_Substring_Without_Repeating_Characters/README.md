@@ -3,10 +3,11 @@
 ## Difficulty
 Medium
 
+## Topics
+Hash Table, String, Sliding Window
+
 ## Language
-Java
+java
 
 ## LeetCode
-
 https://leetcode.com/problems/longest-substring-without-repeating-characters
-
