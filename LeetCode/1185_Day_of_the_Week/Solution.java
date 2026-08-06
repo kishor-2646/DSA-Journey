@@ -1,5 +1,34 @@
 class Solution {
-    String[] weekDays = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+         String[] weekDays = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
+   
+        public String dayOfTheWeek(int day, int month, int year) {
+        
+        int total = 0;
+
+        for(int y = 19)
+        
+        
+        
+        
+        
+        
+        }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   /*  
+            BRUTE FORCE
+   
+     
     public String dayOfTheWeek(int day, int month, int year) {
         int weekDay = 5; // friday
 
@@ -40,5 +69,5 @@ class Solution {
     public boolean leaf(int y)
     {
         return (y % 400 == 0) || ((y % 4 == 0) && (y % 100 != 0));
-    }
+    } */
 }
