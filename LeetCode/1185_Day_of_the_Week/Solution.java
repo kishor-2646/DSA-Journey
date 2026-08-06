@@ -1,30 +1,44 @@
 class Solution {
+    String[] weekDays = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
     public String dayOfTheWeek(int day, int month, int year) {
-        String[] daY = {"Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"};
-        int[] daysOfMonth = {0,31,28,31,30,31,30,31,31,30,31,30,31};
-        if( leapYear(year) ){
-            daysOfMonth[2] = 29; // Feb has 29 days if it is a leap year
-        }
-        int daysOfYear = 4; //31st December 1970 is Thursday, so intialize as 4
+        int weekDay = 5; // friday
 
-        //Add the days of the previous years
-        for( int i = 1971 ; i < year ; i++){
-            if( leapYear(i)){
-                daysOfYear += 366;
-            }else{
-                daysOfYear += 365;
+        int d = 1, m = 1, y = 1971;
+
+        while(!(d == day && m == month && y == year))
+        {
+            d++;
+            weekDay = (weekDay + 1) % 7;
+
+            if(d > daysOfMonth(m,y))
+            {
+                d = 1;
+                m++;
+
+                if(m > 12)
+                {
+                    m = 1;
+                    y++;
+                }
             }
+
         }
-        //Add the days of the previous months
-        for( int i = 1 ; i < month ; i++){
-            daysOfYear += daysOfMonth[i];
-        }
-        daysOfYear += day; //Add the current day
-        return daY[daysOfYear % 7]; //Modulo divide by 7 to find odd days
+                    return weekDays[weekDay];
+
     }
-    private boolean leapYear(int year){
-        if((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
-            return true;
-        return false; 
+
+    public int daysOfMonth(int month, int year){
+        int[] days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+
+        if(month == 2 && leaf(year))
+            return 29;
+
+        return days[month - 1];
+
+    }
+
+    public boolean leaf(int y)
+    {
+        return (y % 400 == 0) || ((y % 4 == 0) && (y % 100 != 0));
     }
 }
