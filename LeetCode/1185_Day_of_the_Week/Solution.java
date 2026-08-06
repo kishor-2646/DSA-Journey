@@ -5,17 +5,31 @@ class Solution {
         
         int total = 0;
 
-        for(int y = 1971)
-        
-        
-        
-        
-        
-        
+        for(int y = 1971; y < year; y++)
+        {
+            total += leap(y)? 366: 365;
+        }
+
+        int[] days = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
+
+        for(int m = 1; m < month; m++)
+        {
+            if(m == 2 && leap(year))
+                total += 29;
+
+            total += days[m - 1];
+        }        
+
+        total += day - 1;
+
+        return weekDays[(5 + total)% 7];
         }
    
    
-   
+   public boolean leap(int y)
+    {
+        return (y % 400 == 0) || ((y % 4 == 0) && (y % 100 != 0));
+    }
    
    
    
@@ -66,7 +80,7 @@ class Solution {
 
     }
 
-    public boolean leaf(int y)
+    public boolean leap(int y)
     {
         return (y % 400 == 0) || ((y % 4 == 0) && (y % 100 != 0));
     } */
