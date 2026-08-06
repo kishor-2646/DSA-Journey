@@ -5,7 +5,7 @@ class Solution {
         
         int total = 0;
 
-        for(int y = 19)
+        for(int y = 1971)
         
         
         
