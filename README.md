@@ -53,7 +53,7 @@ DSA-Journey/
 │   ├── 1D/                 # Classic 1D BS problems
 │   ├── On_Answers/         # BS on answer space
 │   └── 2D_Arrays/          # BS on matrices
-└── assets/                 # Handwritten notes images
+└── assets/                 # Handwritten notes images..
 ```
 
 ---
