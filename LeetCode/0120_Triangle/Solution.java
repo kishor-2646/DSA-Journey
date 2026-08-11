@@ -22,7 +22,7 @@ class Solution {
             return triangle.get(row).get(col);
         
         if(dp[row][col] != Integer.MIN_VALUE)
-            return triangle.get(row
+            return dp[row][col];
 
         int left = solve(triangle, row + 1, col, dp);
         int right = solve(triangle, row + 1, col + 1, dp);
