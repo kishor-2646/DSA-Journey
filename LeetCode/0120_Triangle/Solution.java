@@ -33,7 +33,7 @@ class Solution {
     }
 
 
-
+}
 
   /*  
             Brute force approach T(N) = O(2^n)
@@ -48,4 +48,3 @@ class Solution {
 
         return triangle.get(row).get(col) + Math.min(left,right);
     } */
-}
