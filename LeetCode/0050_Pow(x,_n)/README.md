@@ -3,10 +3,11 @@
 ## Difficulty
 Medium
 
+## Topics
+Math, Recursion
+
 ## Language
-Java
+java
 
 ## LeetCode
-
 https://leetcode.com/problems/powx-n
-
