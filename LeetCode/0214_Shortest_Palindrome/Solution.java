@@ -3,6 +3,8 @@ class Solution {
         int n = s.length();
         int index = 0;
 
+        if (n == 0) return s;
+
         for(int i = n - 1; i >= 0; i--)
         {
             if(isPalindrome(s,0,i))
